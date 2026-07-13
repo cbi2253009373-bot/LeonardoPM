@@ -1,0 +1,119 @@
+commit 245fbc0ff1640ca292dbfd12ac16d6ef831aa76b
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:55:10 2026 -0600
+
+    Modificamos Doctor y EstudianteDoctorado
+
+commit f136c02a5bd7bf26b796908708069d73aff3f506
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:54:21 2026 -0600
+
+    Modificamos Departamento y EstudianteGrado
+
+commit 873a04853e7e666d5c4d9270580ff79523d19ec8
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:53:30 2026 -0600
+
+    Modificamos PAS PDI
+
+commit 0077885b415788959bc1f80bd3b9c200601f8a5b
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:52:51 2026 -0600
+
+    Modificamos Estudiante
+
+commit 3c4835da9d25de368fa1a7b74c79db7563e5cbe5
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:52:32 2026 -0600
+
+    Modificamos Trabajador
+
+commit efd56dfa7656bbbce585faa44e9bbb4c7b035dc1
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:51:58 2026 -0600
+
+    Modificamos Persona
+
+commit 08d815b5ee89f2b11f223a10aada7af1b477dfae
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:51:40 2026 -0600
+
+    Modificamos universidad
+
+commit f612028533db2e5a4038d83e0609911266a9e3f7
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 22:51:12 2026 -0600
+
+    Modificamos main
+
+commit f1e22da7954deca9535a56738efe7ef54943524a
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:36:15 2026 -0600
+
+    Agregamos Main.java bien
+
+commit 5d07096b0f79f6f5d3552ea51385ff3622b7d924
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:35:52 2026 -0600
+
+    Agregamos EstudianteDoctorado bien
+
+commit d1d2a2f0a70caa2f90c8411550da636689deaed1
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:35:26 2026 -0600
+
+    Agregamos EstudianteGrado bien
+
+commit 49bbf5d4abf98bc210cd7294b7f74acf26d71d6e
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:35:01 2026 -0600
+
+    Agregamos Departamento bien
+
+commit fae764d2888134c7525ac70be18e6f6cb95735ee
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:34:39 2026 -0600
+
+    Agregamos Doctor bien
+
+commit fede6f7dbfabe20b90e20249d364b604015ba5f5
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:34:20 2026 -0600
+
+    Agregamos PAS bien
+
+commit f779673c065c9237e9033f1607868f8ef625835a
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:33:55 2026 -0600
+
+    Agregamos Estudiante bien
+
+commit 5a7591d506d051e4bde4d64667a76ac097a7a4de
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:33:40 2026 -0600
+
+    Agregamos trabajador bien
+
+commit f4657779873dcbce55049d4d0775ca768b3ae876
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:33:18 2026 -0600
+
+    Agregamos Persona bien
+
+commit 95ca0d567e52e835d96efc670de25822bf5c7498
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:33:04 2026 -0600
+
+    Agregamos Universidad bien
+
+commit 5b5eb246fb643e6d279d13eefcc3273af56e6b09
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sun Jun 28 21:32:35 2026 -0600
+
+    Agregamos pdi bien
+
+commit bd1457e63a4b26379911e4d45dc1133333d74a15
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 23 00:42:00 2026 -0600
+
+    Lo.py

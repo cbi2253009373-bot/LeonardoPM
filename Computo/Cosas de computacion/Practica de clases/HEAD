@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 d90d5d35fec8dd6b7c19aba3da7d31b2d898a9cb LeonardoPM <cbi2253009373@izt.uam.mx> 1779755779 -0600	commit (initial): Agregue por primera vez en mi compu libro y auto
+d90d5d35fec8dd6b7c19aba3da7d31b2d898a9cb cde90c237280784bcda7e601457d859ab28fc356 LeonardoPM <cbi2253009373@izt.uam.mx> 1779756327 -0600	commit: modifique en mi compu auto y agregue estudiante
+cde90c237280784bcda7e601457d859ab28fc356 4234130a73c1149345bb2b0cb1801a6034ca2c29 LeonardoPM <cbi2253009373@izt.uam.mx> 1779756917 -0600	commit: Estudiante acabe los setder y get
+4234130a73c1149345bb2b0cb1801a6034ca2c29 1a2bab45e94347be27d894c948db3d2880953739 LeonardoPM <cbi2253009373@izt.uam.mx> 1779757261 -0600	commit: Estudiante acabe los acabe los metodos de aprobado y mostrar
+1a2bab45e94347be27d894c948db3d2880953739 ba60de8702071fa8e98733baaa1ff9ea411f9d18 LeonardoPM <cbi2253009373@izt.uam.mx> 1779757561 -0600	commit: Apenas hice el hasta el contructor de cuentabancaria
+ba60de8702071fa8e98733baaa1ff9ea411f9d18 a9c1efbd05e3feb311a2cfb30e1f33572b2cd413 LeonardoPM <cbi2253009373@izt.uam.mx> 1779758066 -0600	commit: acabamos los set y get de cuenta
+a9c1efbd05e3feb311a2cfb30e1f33572b2cd413 bf45ce949b84197bfe01420d674baeddf653c39a LeonardoPM <cbi2253009373@izt.uam.mx> 1779758855 -0600	commit: acabamos los metodos de meter dinero y sacar junto con el de mostrar
+bf45ce949b84197bfe01420d674baeddf653c39a 958e164511a534e44e05b778fa834bce9e4869d7 LeonardoPM <cbi2253009373@izt.uam.mx> 1779759115 -0600	commit: Hicimos alumno y su constructor
+958e164511a534e44e05b778fa834bce9e4869d7 726fb4370b674e35630f2c14352ede7ffd493f0d LeonardoPM <cbi2253009373@izt.uam.mx> 1779759410 -0600	commit: hciimos los get y set de alumno
+726fb4370b674e35630f2c14352ede7ffd493f0d b9ab961129ee8f50b973f580506fd7c6200e0f46 LeonardoPM <cbi2253009373@izt.uam.mx> 1779759886 -0600	commit: terminamos alumno
+b9ab961129ee8f50b973f580506fd7c6200e0f46 01079ee3bb25c2265abe78fa2f3001ea24c25164 LeonardoPM <cbi2253009373@izt.uam.mx> 1779761795 -0600	commit: hcimos cambios en Libro

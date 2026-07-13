@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Código ANSI para color rojo
+    cout << "\033[31m";
+
+    cout << "  ***     ***  " << endl;
+    cout << " *****   ***** " << endl;
+    cout << "******* *******" << endl;
+    cout << "***************" << endl;
+    cout << " ************* " << endl;
+    cout << "  ***********  " << endl;
+    cout << "   *********   " << endl;
+    cout << "    *******    " << endl;
+    cout << "     *****     " << endl;
+    cout << "      ***      " << endl;
+    cout << "       *       " << endl;
+
+    // Regresar al color normal
+    cout << "\033[0m";
+
+    cout << "\nTe amo ❤️" << endl;
+
+    return 0;
+}

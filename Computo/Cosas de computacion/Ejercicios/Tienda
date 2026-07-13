@@ -1,0 +1,49 @@
+int main()
+{
+    float saldo,precioP,acum,restante;
+	int numproductos;
+        acum=0;
+	numproductos=0;
+	cambio=0;
+//solicitamos el saldo la cual no debe de ser negativo
+	do{
+		printf("Dame el saldo de tu vale");
+		scanf("%f",&saldo);
+		if(saldo<0){
+		    printf("Tu saldo no es valido\n");
+		
+		}
+		                        
+	}while(saldo>0);
+			do{
+			  printf("Pasa tus productos con sus precios");
+		      scanf("%f",&precioproducto);
+			if(precioproducto<0){
+			printf("Error: al ingresar  ");
+			
+			}
+			if (acum+precioproducto<=saldo){
+			acum=acum+precioP;
+			numproductos=numproductos+1;
+			
+			}
+			else{
+				printf("Tu producto no cabe\n");
+				
+			
+			}
+			
+			}while(acum<saldo);
+
+			if(acum<saldo){
+			acum=acum-precioproducto;
+			numproductos=numproductos-1;
+			}
+			
+			cambio=saldo-acum;
+
+			printf("******************Tiket*********************");
+			printf("Saldo disponible","%f"&saldo);
+			printf("Costo de productos","%f"&acum);
+			printf("Cambio","%f"&restante);
+			printf("**********************************************"):

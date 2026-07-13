@@ -1,0 +1,274 @@
+commit 5af3de91f8a23aa76230b7515347f44d96dc694a
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 16 13:01:28 2026 -0600
+
+    Agregue main
+
+commit 6f19cb591863f06e89d7e03c715236aa994b7fc2
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:47:19 2026 -0600
+
+     Agregue Main de la practica 3
+
+commit 032ead314316f5eb035630858eb14e654bc9db13
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:45:10 2026 -0600
+
+     Agregue cuenta corriente bien
+
+commit a72eb24cc67518c8e31e90b197ee8752be8ea09a
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:44:36 2026 -0600
+
+     Agregue cuenta de ahorro bien
+
+commit 795cd05a8e60e34950a605e00052fbfc4639478b
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:41:11 2026 -0600
+
+     Agregue Estudiante y lo modificamos
+
+commit 97f1bdaa4880a3f8edfcdb5ba2ea80599ec96115
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:40:47 2026 -0600
+
+     Agregue trabajador y lo modificamos
+
+commit c433ac2d971aac9bd638e70eb9ba3a8c2bf9f291
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:40:15 2026 -0600
+
+     Agrefue persona por que ocupamos trabajador y estudiante de la practica 2
+
+commit fbbf0cfcf7759effd41096588e44ae5b48b4fd79
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 14:39:47 2026 -0600
+
+     Agrefue cuenta de ahorro
+
+commit 51fda9109eba3c456259c0312f8b651caaeac4ff
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 13:41:46 2026 -0600
+
+     Agrefue cuentacorriente
+
+commit 3f384434e944b42810497d4f8f142b347290c641
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 13:35:21 2026 -0600
+
+    Agregue cuentaBancaria
+
+commit ce867512df0215aa9639d5206ee3611ba179ab36
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Tue Jun 9 13:34:34 2026 -0600
+
+    Agregue transaccionalbe
+
+
+
+
+//Aqui esta donde empieza los commit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit 4a380385532e024b805a630a55e17b41fa0beb0d
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Fri Jun 5 02:12:35 2026 -0600
+
+    Agregamos Main
+
+commit 8646766f3dd47e146c5faae1f033bb3f2e5f76ee
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Fri Jun 5 02:12:07 2026 -0600
+
+    Agregamos Universodad
+
+commit 3eab8eb3963119c602e0c3d4c5b080c1702e0be4
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Fri Jun 5 02:10:43 2026 -0600
+
+    Agregamos Departamento
+
+commit 614c1310f4fc12321d1356dff9b3553420cbab6f
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:36:03 2026 -0600
+
+    Agregamos Doctor
+
+commit 9c5bc4fe34bbd1e0a8fed1868e8b7ca93fad609a
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:35:44 2026 -0600
+
+    Agregamos Estudiante bien
+
+commit 7c023cafada1c88b89779c9cb88f393fe743770c
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:35:14 2026 -0600
+
+    Agregamos EstudianteGrado bien
+
+commit 533fbb3215a1866995260a6ce40e0b6ff3574d10
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:34:39 2026 -0600
+
+    Agregamos EstudianteDoctorado bien
+
+commit f268fbfe9c2a61efb9e5b255b84058b8df148d15
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:29:33 2026 -0600
+
+    Agregamos EstudianteDoctorado
+
+commit 1fb982d85ef2dde4adc8dc96e1a02a3acf801006
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:29:17 2026 -0600
+
+    Agregamos EstudianteGrado
+
+commit a88dc1ffc8856ce4fc41ccfc4d32816a658a2e50
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:14:50 2026 -0600
+
+    Agregamos Estudiante
+
+commit 853a084b3dc0f491007d3c2e102993472ecde21a
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:13:58 2026 -0600
+
+    Agregamos PDI
+
+commit 863b0cee8268d0f9188e7d5c66dae167557434d8
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:12:22 2026 -0600
+
+    Agregamos PAS
+
+commit 2a960f3483a848ac595f222c120f8d9015645b42
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:10:01 2026 -0600
+
+    Agregamos Trabajador
+
+commit 616a1c40b6e5d8f1e5ce030f21d20fcf1ebd2eef
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Thu Jun 4 22:04:01 2026 -0600
+
+    Agregamos Persona
+
+commit 1089199efdb333eb8cba623644aa02df65da512a
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 21:43:52 2026 -0600
+
+    agregamos Main se nos olvido poner los log
+
+commit 79ed8b49aa9137cb8ea04085267c22b2e3c1b2d1
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 21:42:34 2026 -0600
+
+    hicimos cambios en cuenta bancaria nos falto algo
+
+commit 01079ee3bb25c2265abe78fa2f3001ea24c25164
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 20:16:35 2026 -0600
+
+    hcimos cambios en Libro
+
+commit b9ab961129ee8f50b973f580506fd7c6200e0f46
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:44:46 2026 -0600
+
+    terminamos alumno
+
+commit 726fb4370b674e35630f2c14352ede7ffd493f0d
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:36:50 2026 -0600
+
+    hciimos los get y set de alumno
+
+commit 958e164511a534e44e05b778fa834bce9e4869d7
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:31:55 2026 -0600
+
+    Hicimos alumno y su constructor
+
+commit bf45ce949b84197bfe01420d674baeddf653c39a
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:27:35 2026 -0600
+
+    acabamos los metodos de meter dinero y sacar junto con el de mostrar
+
+commit a9c1efbd05e3feb311a2cfb30e1f33572b2cd413
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:14:26 2026 -0600
+
+    acabamos los set y get de cuenta
+
+commit ba60de8702071fa8e98733baaa1ff9ea411f9d18
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:06:01 2026 -0600
+
+     Apenas hice el hasta el contructor de cuentabancaria
+
+commit 1a2bab45e94347be27d894c948db3d2880953739
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 19:01:01 2026 -0600
+
+     Estudiante acabe los acabe los metodos de aprobado y mostrar
+
+commit 4234130a73c1149345bb2b0cb1801a6034ca2c29
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 18:55:17 2026 -0600
+
+     Estudiante acabe los setder y get
+
+commit cde90c237280784bcda7e601457d859ab28fc356
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 18:45:27 2026 -0600
+
+    modifique en mi compu auto y agregue estudiante
+
+commit d90d5d35fec8dd6b7c19aba3da7d31b2d898a9cb
+Author: LeonardoPM <cbi2253009373@izt.uam.mx>
+Date:   Mon May 25 18:36:19 2026 -0600
+
+    Agregue por primera vez en mi compu libro y auto
